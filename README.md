@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Application Development.
 🌱 I’m currently learning Flutter.
-👯 I’m looking to collaborate on mobile apps, startup ideas, and open-source projects.
-🤔 I’m looking for help with advanced Flutter concepts and backend integration.
+👯 I’m looking to collaborate on mobile apps, 
+🤔 I’m looking for help with advanced Flutter concepts.
 💬 Ask me about C, C++, Kotlin, app development, and college tech life.
-📫 How to reach me: DM me on LinkedIn / Instagram or email me.
+📫 How to reach me: DM me on LinkedIn or email me.
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love turning ideas into apps and learning new tech faster than I finish my coffee ☕
